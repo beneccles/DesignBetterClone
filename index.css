@@ -51,7 +51,7 @@ table {
     min-height: 60px;
     top: 0;
     font-family: MaisonNeue, -apple-system, BlinkMacSystemFont, Helvectica, Arial, sans-serif;
-    z-index: 999;
+    z-index: 999; /*Make sure the navbar hovers over the rest of the content*/
     transition: top 0.3s;
 }
 
